@@ -1,0 +1,121 @@
+text,label
+"chest pain radiating left arm, diaphoresis, nausea, ST elevation ECG",cardiology
+"chest pain radiating left arm, diaphoresis, nausea, ST elevation ECG (variant)",cardiology
+"exertional angina, positive stress test, troponin elevated, hypertension",cardiology
+"exertional angina, positive stress test, troponin elevated, hypertension (variant)",cardiology
+irregular heartbeat palpitations ECG atrial fibrillation rate 140,cardiology
+irregular heartbeat palpitations ECG atrial fibrillation rate 140 (variant),cardiology
+bilateral leg edema shortness breath BNP 800 S3 gallop cardiomegaly,cardiology
+bilateral leg edema shortness breath BNP 800 S3 gallop cardiomegaly (variant),cardiology
+hypertrophic cardiomyopathy syncope exercise young athlete,cardiology
+hypertrophic cardiomyopathy syncope exercise young athlete (variant),cardiology
+aortic stenosis systolic murmur ejection click calcified valve echo,cardiology
+aortic stenosis systolic murmur ejection click calcified valve echo (variant),cardiology
+pericarditis pleuritic chest pain friction rub diffuse ST elevation,cardiology
+pericarditis pleuritic chest pain friction rub diffuse ST elevation (variant),cardiology
+ventricular tachycardia wide complex tachycardia hemodynamically unstable,cardiology
+ventricular tachycardia wide complex tachycardia hemodynamically unstable (variant),cardiology
+aortic dissection tearing back pain blood pressure differential arms,cardiology
+aortic dissection tearing back pain blood pressure differential arms (variant),cardiology
+mitral valve prolapse click murmur midsystolic young female,cardiology
+mitral valve prolapse click murmur midsystolic young female (variant),cardiology
+coronary artery disease stenting PCI left anterior descending artery,cardiology
+coronary artery disease stenting PCI left anterior descending artery (variant),cardiology
+STEMI inferior wall leads II III aVF emergent revascularization,cardiology
+STEMI inferior wall leads II III aVF emergent revascularization (variant),cardiology
+heart failure ejection fraction 35% NYHA class III dyspnea exertion,cardiology
+heart failure ejection fraction 35% NYHA class III dyspnea exertion (variant),cardiology
+endocarditis fever IV drug user splinter hemorrhages Osler nodes,cardiology
+endocarditis fever IV drug user splinter hemorrhages Osler nodes (variant),cardiology
+hypertensive urgency BP 200/120 headache no target organ damage,cardiology
+hypertensive urgency BP 200/120 headache no target organ damage (variant),cardiology
+progressive dyspnea dry cough bibasilar crackles honeycombing HRCT fibrosis,pulmonology
+progressive dyspnea dry cough bibasilar crackles honeycombing HRCT fibrosis (variant),pulmonology
+wheezing nocturnal cough reversible airflow obstruction beta agonist response,pulmonology
+wheezing nocturnal cough reversible airflow obstruction beta agonist response (variant),pulmonology
+COPD chronic productive cough FEV1 FVC ratio 0.65 smoking 30 pack years,pulmonology
+COPD chronic productive cough FEV1 FVC ratio 0.65 smoking 30 pack years (variant),pulmonology
+pulmonary embolism acute dyspnea pleuritic pain DVT positive D-dimer,pulmonology
+pulmonary embolism acute dyspnea pleuritic pain DVT positive D-dimer (variant),pulmonology
+pneumonia lobar consolidation fever productive cough elevated WBC CRP,pulmonology
+pneumonia lobar consolidation fever productive cough elevated WBC CRP (variant),pulmonology
+tuberculosis hemoptysis night sweats upper lobe cavitation AFB positive,pulmonology
+tuberculosis hemoptysis night sweats upper lobe cavitation AFB positive (variant),pulmonology
+OSA excessive daytime sleepiness AHI 35 BMI 38 snoring witnessed apneas,pulmonology
+OSA excessive daytime sleepiness AHI 35 BMI 38 snoring witnessed apneas (variant),pulmonology
+sarcoidosis bilateral hilar lymphadenopathy non-caseating granulomas,pulmonology
+sarcoidosis bilateral hilar lymphadenopathy non-caseating granulomas (variant),pulmonology
+spontaneous pneumothorax tall thin male absent breath sounds unilateral,pulmonology
+spontaneous pneumothorax tall thin male absent breath sounds unilateral (variant),pulmonology
+lung cancer central mass hemoptysis weight loss smoker 40 years,pulmonology
+lung cancer central mass hemoptysis weight loss smoker 40 years (variant),pulmonology
+asthma acute exacerbation peak flow 40% predicted nebulizer treatment,pulmonology
+asthma acute exacerbation peak flow 40% predicted nebulizer treatment (variant),pulmonology
+pleural effusion dullness to percussion unilateral chest opacity protein,pulmonology
+pleural effusion dullness to percussion unilateral chest opacity protein (variant),pulmonology
+hypersensitivity pneumonitis farmer lung antigen exposure bilateral infiltrates,pulmonology
+hypersensitivity pneumonitis farmer lung antigen exposure bilateral infiltrates (variant),pulmonology
+respiratory failure hypoxemia type 1 P/F ratio 200 prone positioning ICU,pulmonology
+respiratory failure hypoxemia type 1 P/F ratio 200 prone positioning ICU (variant),pulmonology
+bronchiectasis chronic productive foul sputum recurrent infections CT dilated airways,pulmonology
+bronchiectasis chronic productive foul sputum recurrent infections CT dilated airways (variant),pulmonology
+thunderclap headache sudden onset neck stiffness photophobia subarachnoid,neurology
+thunderclap headache sudden onset neck stiffness photophobia subarachnoid (variant),neurology
+acute stroke facial droop arm weakness dysarthria NIHSS score tPA,neurology
+acute stroke facial droop arm weakness dysarthria NIHSS score tPA (variant),neurology
+migraine aura scintillating scotoma unilateral throbbing nausea photophobia,neurology
+migraine aura scintillating scotoma unilateral throbbing nausea photophobia (variant),neurology
+Guillain-Barre ascending weakness areflexia CSF albuminocytological dissociation,neurology
+Guillain-Barre ascending weakness areflexia CSF albuminocytological dissociation (variant),neurology
+Parkinson disease resting tremor bradykinesia cogwheel rigidity micrographia,neurology
+Parkinson disease resting tremor bradykinesia cogwheel rigidity micrographia (variant),neurology
+multiple sclerosis relapsing remitting optic neuritis white matter lesions MRI,neurology
+multiple sclerosis relapsing remitting optic neuritis white matter lesions MRI (variant),neurology
+generalized tonic clonic seizure post-ictal confusion EEG abnormal,neurology
+generalized tonic clonic seizure post-ictal confusion EEG abnormal (variant),neurology
+Alzheimer dementia memory loss personality change PET amyloid,neurology
+Alzheimer dementia memory loss personality change PET amyloid (variant),neurology
+meningitis fever headache stiff neck CSF pleocytosis neutrophils bacterial,neurology
+meningitis fever headache stiff neck CSF pleocytosis neutrophils bacterial (variant),neurology
+myasthenia gravis ptosis diplopia fatigable weakness repetitive nerve stimulation,neurology
+myasthenia gravis ptosis diplopia fatigable weakness repetitive nerve stimulation (variant),neurology
+transient ischemic attack limb weakness resolved 24 hours carotid stenosis,neurology
+transient ischemic attack limb weakness resolved 24 hours carotid stenosis (variant),neurology
+spinal cord compression myelopathy hyperreflexia Babinski positive MRI,neurology
+spinal cord compression myelopathy hyperreflexia Babinski positive MRI (variant),neurology
+peripheral neuropathy distal stocking glove sensory loss diabetes,neurology
+peripheral neuropathy distal stocking glove sensory loss diabetes (variant),neurology
+essential tremor action tremor bilateral hands alcohol responsive,neurology
+essential tremor action tremor bilateral hands alcohol responsive (variant),neurology
+cerebral venous thrombosis headache papilledema seizure OCP use,neurology
+cerebral venous thrombosis headache papilledema seizure OCP use (variant),neurology
+diabetic ketoacidosis polydipsia polyuria Kussmaul breathing high glucose anion gap,endocrinology
+diabetic ketoacidosis polydipsia polyuria Kussmaul breathing high glucose anion gap (variant),endocrinology
+type 2 diabetes obesity HbA1c 9 metformin SGLT2 lifestyle modification,endocrinology
+type 2 diabetes obesity HbA1c 9 metformin SGLT2 lifestyle modification (variant),endocrinology
+Graves disease hyperthyroid exophthalmos diffuse goiter TSH suppressed T4 high,endocrinology
+Graves disease hyperthyroid exophthalmos diffuse goiter TSH suppressed T4 high (variant),endocrinology
+hypothyroidism fatigue cold intolerance weight gain TSH elevated levothyroxine,endocrinology
+hypothyroidism fatigue cold intolerance weight gain TSH elevated levothyroxine (variant),endocrinology
+Cushing syndrome central obesity moon face buffalo hump cortisol elevated,endocrinology
+Cushing syndrome central obesity moon face buffalo hump cortisol elevated (variant),endocrinology
+primary hyperaldosteronism hypertension hypokalemia aldosterone renin ratio,endocrinology
+primary hyperaldosteronism hypertension hypokalemia aldosterone renin ratio (variant),endocrinology
+pheochromocytoma episodic hypertension headache diaphoresis palpitations,endocrinology
+pheochromocytoma episodic hypertension headache diaphoresis palpitations (variant),endocrinology
+acromegaly enlarged hands feet jaw prognathism IGF-1 elevated GH pituitary,endocrinology
+acromegaly enlarged hands feet jaw prognathism IGF-1 elevated GH pituitary (variant),endocrinology
+Addison disease hyperpigmentation hyponatremia hyperkalemia low cortisol,endocrinology
+Addison disease hyperpigmentation hyponatremia hyperkalemia low cortisol (variant),endocrinology
+prolactinoma amenorrhea galactorrhea elevated prolactin dopamine agonist,endocrinology
+prolactinoma amenorrhea galactorrhea elevated prolactin dopamine agonist (variant),endocrinology
+hypercalcemia nephrolithiasis elevated PTH primary hyperparathyroidism,endocrinology
+hypercalcemia nephrolithiasis elevated PTH primary hyperparathyroidism (variant),endocrinology
+PCOS irregular menstruation androgen excess polycystic ovaries insulin resistance,endocrinology
+PCOS irregular menstruation androgen excess polycystic ovaries insulin resistance (variant),endocrinology
+hypoglycemia sweating confusion Whipple triad insulin overdose glucagon,endocrinology
+hypoglycemia sweating confusion Whipple triad insulin overdose glucagon (variant),endocrinology
+thyroid nodule cold nodule fine needle aspiration biopsy papillary cancer,endocrinology
+thyroid nodule cold nodule fine needle aspiration biopsy papillary cancer (variant),endocrinology
+MEN1 syndrome parathyroid pituitary pancreatic tumors familial,endocrinology
+MEN1 syndrome parathyroid pituitary pancreatic tumors familial (variant),endocrinology
